@@ -10,7 +10,7 @@ Tujuan proyek ini adalah memastikan bahwa data yang digunakan untuk analisis ata
 
 ## 📂 Sumber Data  
 Dataset uncleaned smartwatch health yang digunakan dalam proyek ini diperoleh dari Kaggle:  
-[Smartwatch Health Data (Uncleaned)](https://www.kaggle.com/datasets/mohammedarfathr/smartwatch-health-data-uncleaned) :contentReference[oaicite:0]{index=0}
+[Smartwatch Health Data (Uncleaned)](https://www.kaggle.com/datasets/mohammedarfathr/smartwatch-health-data-uncleaned)
 
 ---
 
